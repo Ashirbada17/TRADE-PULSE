@@ -81,9 +81,12 @@ Default ports: Frontend → 3000, Dashboard → 3001, Backend API → 8000
 
 🌐 Screenshots
 <p float="left">
+  <img src="https://github.com/Ashirbada17/TRADE-PULSE/blob/main/images/Screenshot%20(79).png" width="200" />
   <img src="https://github.com/Ashirbada17/TRADE-PULSE/blob/main/images/Screenshot%20(80).png" width="200" />
   <img src="https://github.com/Ashirbada17/TRADE-PULSE/blob/main/images/Screenshot%20(81).png" width="200" />
-  <img src="https://github.com/Ashirbada17/TRADE-PULSE/blob/main/images/Screenshot%20(82).png" width="200" />
+  <img src="https://github.com/Ashirbada17/TRADE-PULSE/blob/main/images/Screenshot%20(83).png" width="200" />
+  <img src="https://github.com/Ashirbada17/TRADE-PULSE/blob/main/images/Screenshot%20(84).png" width="200" />
+  <img src="https://github.com/Ashirbada17/TRADE-PULSE/blob/main/images/Screenshot%20(85).png" width="200" />
 </p>
 
 📂 Project Structure
