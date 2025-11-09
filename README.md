@@ -90,6 +90,7 @@ Default ports: Frontend → 3000, Dashboard → 3001, Backend API → 8000
 </p>
 
 📂 Project Structure
+
 bash
 Copy code
 TradePulse/
@@ -101,6 +102,7 @@ TradePulse/
 ├── .gitignore
 ├── package.json
 └── README.md
+
 📌 Future Improvements
 Real-time stock price updates via WebSockets
 
